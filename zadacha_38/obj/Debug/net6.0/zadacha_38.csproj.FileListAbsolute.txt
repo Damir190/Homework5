@@ -1,0 +1,15 @@
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\zadacha_38.csproj.AssemblyReference.cache
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\zadacha_38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\zadacha_38.AssemblyInfoInputs.cache
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\zadacha_38.AssemblyInfo.cs
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\zadacha_38.csproj.CoreCompileInputs.cache
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\bin\Debug\net6.0\zadacha_38.exe
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\bin\Debug\net6.0\zadacha_38.deps.json
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\bin\Debug\net6.0\zadacha_38.runtimeconfig.json
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\bin\Debug\net6.0\zadacha_38.dll
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\bin\Debug\net6.0\zadacha_38.pdb
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\zadacha_38.dll
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\refint\zadacha_38.dll
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\zadacha_38.pdb
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\zadacha_38.genruntimeconfig.cache
+C:\Users\ag_cm\Desktop\GB\Homework5\zadacha_38\obj\Debug\net6.0\ref\zadacha_38.dll
