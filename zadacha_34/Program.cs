@@ -14,7 +14,7 @@ int[] GetArray(int size, int minValue, int maxValue)
     return res;
 }
 
-int[] array = GetArray(7, 0, 1000);
+int[] array = GetArray(7, 100, 1000);
 Console.WriteLine(String.Join(" ", array));
 
 int result(int[] array)
